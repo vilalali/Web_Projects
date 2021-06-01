@@ -99,7 +99,7 @@ Tree==0.2.4
 troposphere==2.4.0
 Unidecode==1.0.23
 unrar==0.3
-urllib3==1.24.1
+urllib3==1.26.5
 vine==1.2.0
 virtualenv==16.1.0
 virtualenv-clone==0.4.0
